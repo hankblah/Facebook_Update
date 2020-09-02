@@ -68,7 +68,7 @@ public class crawler {
 	/**
 	 * This method prompt for facebook OAuth token
 	 * precondition: A working OAuth token
-	 * postcondition: captured OAuth token
+	 * postcondition: captured OAuth token..
 	 * @param
 	 * @return void
 	 * @throws FacebookException
