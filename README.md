@@ -7,6 +7,12 @@ Crawled a bookstore in Taiwan and republish the data on facebook for book resell
 
 <div><a target="_blank" rel="noopener noreferrer" href="https://github.com/hankblah/Facebook_Update/blob/master/2.png"><img src="https://github.com/hankblah/Facebook_Update/blob/master/2.png" width="1500" align="center/" style="max-width:100%;"></a></div>
 
+From Website 
+
+to organized crawled data
+
+to facebook fanpage post
+
 <pre><code>
 1561456
 </code></pre>
